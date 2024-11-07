@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/crude-oparation.iml" filepath="$PROJECT_DIR$/.idea/crude-oparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sakapi-app.iml" filepath="$PROJECT_DIR$/.idea/sakapi-app.iml" />
     </modules>
   </component>
 </project>
