@@ -27,7 +27,7 @@
                                       <td>{{$loop->iteration}}</td>
                                       <td>{{$category->category_name}}</td>
                                       <td>
-                                          <img src="{{asset($category->image)}}" alt="" style="height: 80px; width: 80px">
+                                          <img src="{{asset($category->image)}}" alt="" style="height: 70px; width: 70px">
                                       </td>
                                       <td>{{$category->status==1?'Active':'Inactive'}}</td>
                                       <td class="d-flex" style="gap: 14px" >
